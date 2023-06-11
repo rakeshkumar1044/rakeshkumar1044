@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/rakesh-kumar-264b5b94/)" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/feed/](https://www.linkedin.com/in/rakesh-kumar-264b5b94/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/rakesh-kumar-264b5b94/)" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/www.hackerrank.com/rakeshkumar_1044?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/rakeshkumar_1044?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcode.com/rakeshkumar1044/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/rakeshkumar1044/" height="30" width="40" /></a>
 </p>
