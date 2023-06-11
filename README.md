@@ -1,3 +1,4 @@
+![LOGO](https://github.com/rakeshkumar1044/rakeshkumar1044/blob/main/987.jfif)
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt ="Data Analyst" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShflUJZ9PUWpK9E57KyNznkqcc1pKQB_-rlA&usqp=CAU">
